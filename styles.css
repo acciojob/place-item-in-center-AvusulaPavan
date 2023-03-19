@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+.holder {
+    display: flex; /* set display to flex */
+    justify-content: center; /* center items horizontally */
+    align-items: center; /* center items vertically */
+    height: 100vh; /* set height to full viewport height */
+  }
